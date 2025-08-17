@@ -18,7 +18,7 @@ This project implements a Bi-Level Distributionally Robust Optimization (DRO) sy
 
 1. **Clone the Repository**
 ```bash
-git clone <repository_url>
+git clone https://github.com/Mercury0828/Bi-Level-DRO
 cd bi_level_dro/src/core
 ```
 
